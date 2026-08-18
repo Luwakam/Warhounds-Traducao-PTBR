@@ -21,4 +21,5 @@ Dentro do jogo altere o idioma para espanhol/Spanish e se divirta!
 
 ---
 > 💡 *Projeto mantido de forma independente. Se encontrar algum erro grave de texto ou caixa fora de lugar, sinta-se à vontade para abrir uma **Issue** aqui no GitHub para ajudar na futura revisão!*
+
 Contribua com qualquer valor Pix: e282d51e-eaf5-4491-be5b-04d4d0c1fd05
