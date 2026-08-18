@@ -15,7 +15,7 @@ Dentro do jogo altere o idioma para espanhol/Spanish e se divirta!
 
 ## 👥 Créditos
 
-* **Tradução, Ferramentas e Adaptação:** [Luwaka]
+* **Tradução, Ferramentas e Adaptação:** Luwaka
 * **Agradecimentos:** Toda Comunidade e jogadores de jogos como XCOM!
 
 ---
