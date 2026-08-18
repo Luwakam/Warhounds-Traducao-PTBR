@@ -10,3 +10,12 @@ Cole o arquivo "Spanish" para dentro dessa pasta "Localizations" e substitua o o
 .../Warhounds\Warhounds_Data\StreamingAssets\Localizations
 
 Dentro do jogo altere o idioma para espanhol/Spanish e se divirta!
+---
+
+## 👥 Créditos
+
+* **Tradução, Ferramentas e Adaptação:** [Luwaka]
+* **Agradecimentos:** Toda Comunidade e jogadores de jogos como XCOM!
+
+---
+> 💡 *Projeto mantido de forma independente. Se encontrar algum erro grave de texto ou caixa fora de lugar, sinta-se à vontade para abrir uma **Issue** aqui no GitHub para ajudar na futura revisão!*
