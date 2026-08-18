@@ -6,7 +6,8 @@ Como esse é um jogo que eu pretendo jogar futuramente, eu planejo revisar e cor
 Outra coisa é que não consegui fazer o til (~) funcionar dentro do jogo, então palavras com esse sinal aparecerão sem ele!
 
 
-Cole o arquivo "Spanish" para dentro dessa pasta "Localizations" e substitua o original.
+Cole o arquivo "Spanish" para dentro dessa pasta "Localizations" e substitua o original. (
+Sempre é aconselhavel fazer um backup dos arquivos originais antes de traduzir)
 
 .../Warhounds\Warhounds_Data\StreamingAssets\Localizations
 
