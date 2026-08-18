@@ -10,6 +10,7 @@ Cole o arquivo "Spanish" para dentro dessa pasta "Localizations" e substitua o o
 .../Warhounds\Warhounds_Data\StreamingAssets\Localizations
 
 Dentro do jogo altere o idioma para espanhol/Spanish e se divirta!
+
 ---
 
 ## 👥 Créditos
