@@ -17,6 +17,8 @@ Dentro do jogo altere o idioma para espanhol/Spanish e se divirta!
 
 ## 👥 Créditos
 
+* **Status do Texto: 100% das linhas de diálogo e menus foram traduzidas para PT-BR.**
+* **Revisão: Em andamento. O texto atual foi traduzido via IA para tornar o jogo jogável em português imediatamente.**
 * **Tradução, Ferramentas e Adaptação:** Luwaka
 * **Agradecimentos:** Toda Comunidade e jogadores de jogos como XCOM!
 
